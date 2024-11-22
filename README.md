@@ -14,7 +14,7 @@ Hi there, I'm **Pritam**! 🐧
 ```python
 const love = {
     name: "pritamdotorg",
-    age: 18,
+    age: 19,
     pronouns: "He | Him",
     languages: ["Python", "HTML", "CSS"],
     occupation: "Student",
