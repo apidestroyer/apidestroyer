@@ -4,13 +4,9 @@
    </a>
 </p>
 
-### Main Language
-- Python
+## Contact
 
-## Places to find Me 
   
-
- [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/wpritam)
  [![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1087282349395411015)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:/instagram.com/06pritam_)
  
